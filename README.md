@@ -13,7 +13,9 @@ Como Acessar a API<br>
 A API está hospedada na web e pode ser acessada através do seguinte endpoint: https://dropdown-api.onrender.com/state<br>
 
 Como Executar o Projeto Localmente<br>
-Clone este repositório em sua máquina local.<br>
+Clone este repositório em sua máquina local.
+
+
 Certifique-se de ter o Node.js e o npm instalados.<br>
 Navegue até o diretório do projeto no terminal.<br>
 Instale as dependências usando o comando npm install.<br>
